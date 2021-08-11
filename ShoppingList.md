@@ -7,4 +7,5 @@
 - [x] Eggs
 - [x] Milk 
 - [x] Cheese
+- [x] Bread
 - [ ] Tomatoes
